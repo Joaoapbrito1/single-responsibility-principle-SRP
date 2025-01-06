@@ -1,7 +1,8 @@
 package service;
 
 public class GeradorRelatorio {
-    public void gerarRelatorio() {
+    public String gerarRelatorio() {
         System.out.println("Gerando relatório financeiro...");
+        return null;
     }
 }
